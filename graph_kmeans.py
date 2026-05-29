@@ -8,7 +8,7 @@ from matplotlib.patches import Patch
 
 
 # chemin vers le dossier de mes images, c'est ici que tu modifies le chemin vers ton dossier où se trouvent tes images
-dossier_path = "C:/Users/louartani/Documents/PROJETS\ATELIERS/foret_urbaine/traitement/data/ECOBOX_photos"
+dossier_path = "cheminchemin/data/ECOBOX_photos"
 
 os.makedirs("resultats", exist_ok=True)
 
